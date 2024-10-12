@@ -1,0 +1,9 @@
+i am idea logo change in header file
+<!-- Just an image -->
+<div class="container">
+    <a class="navbar-brand" href="index.php">
+      <img src="../hms/img/logo2.jpg" class="me-2" height="40" alt="Hospital"
+        loading="lazy" />
+    </a>
+</div>
+<div class="mr-auto"></div>
